@@ -1,0 +1,4 @@
+﻿# OpenClaw Backup
+node_modules/
+*.log
+.DS_Store
